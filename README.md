@@ -1,2 +1,6 @@
 # MERN-Chat-application
-I have used MERN technology to develop this project
+This project was developed using the MERN stack, combining MongoDB, Express, React, and Node.js to create a comprehensive web application.
+
+
+
+
